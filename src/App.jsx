@@ -372,7 +372,7 @@ function App() {
                 </a>
 
                 <a
-                  href='tel:07xxxxxxxx'
+                  href='tel:0785104855'
                   className='rounded-xl bg-orange-500 px-6 py-4 text-center font-bold text-white transition hover:bg-orange-600'
                 >
                   Sună acum
