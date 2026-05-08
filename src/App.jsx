@@ -337,10 +337,10 @@ function App() {
                 <p>
                   Email:{" "}
                   <a
-                    href='mailto:contact@horecaservicecluj.ro'
+                    href='mailto:servicehorecacluj@yahoo.com'
                     className='font-bold text-orange-400'
                   >
-                    contact@servicehorecacluj.ro
+                    servicehorecacluj@yahoo.com
                   </a>
                 </p>
 
@@ -408,7 +408,7 @@ function App() {
 
               <div className='mt-3 space-y-2 text-sm text-slate-400'>
                 <p>Telefon: 0785 104 855</p>
-                <p>Email: contact@servicehorecacluj.ro</p>
+                <p>Email: servicehorecacluj@yahoo.com</p>
                 <p>Cluj-Napoca, România</p>
               </div>
             </div>
